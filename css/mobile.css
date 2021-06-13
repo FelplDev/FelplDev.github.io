@@ -13,6 +13,8 @@
     width: 100%;
 }
 
+
+
 /*#navbar-items li:nth-child(2) {
     border-top: 1px solid #333;
     border-bottom: 1px solid #333;
@@ -42,7 +44,8 @@
 }
 
 .logo {
-    font-size: 2rem;
+    margin-left: -80px;
+    font-size: 0px;
 }
 
 #navbar-items {
