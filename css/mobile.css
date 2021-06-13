@@ -13,8 +13,6 @@
     width: 100%;
 }
 
-
-
 /*#navbar-items li:nth-child(2) {
     border-top: 1px solid #333;
     border-bottom: 1px solid #333;
@@ -115,6 +113,9 @@
     text-align: center;
 }
 
+#testimonials-container a {
+    display: inline-block;
+}
 
 #gallery-container {
     grid-template-columns: 1fr;
