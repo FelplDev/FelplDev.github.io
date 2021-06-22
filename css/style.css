@@ -16,7 +16,7 @@ a {
 }
 
 .btn {
-    margin-top: 85px;
+    margin-top: 50px;
     display: inline-block;
     padding: 15px 60px;
     font-size: 1.1rem;
@@ -73,6 +73,11 @@ a {
     padding: 10px;
 }
 
+#showcase img{
+    border-radius: 50%;
+    margin-bottom: 60px;
+}
+
 /* Showcase */
 #showcase {
     height: 100vh;
@@ -80,7 +85,7 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('../img/video.gif') no-repeat center center/cover;
+    background: url('../img/fundogala.jpg') no-repeat center center/cover;
 
     /* Overlay */
     background-color: rgba(0,0,0,0.5);
@@ -108,8 +113,6 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('../img/video.gif') no-repeat center center/cover;
-
     /* Overlay */
     background-color: rgba(0,0,0,0.5);
     background-blend-mode: color;
